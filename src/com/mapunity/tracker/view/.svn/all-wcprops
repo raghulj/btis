@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/btis_btis/!svn/ver/3/src/com/mapunity/tracker/view
+END
+FileChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/FileChooser.java
+END
+Theme.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/Theme.java
+END
+PlacesCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/PlacesCanvas.java
+END
+DirectionSuggestFrom.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/btis_btis/!svn/ver/4/src/com/mapunity/tracker/view/DirectionSuggestFrom.java
+END
+Acknowledgement.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/Acknowledgement.java
+END
+DevelopmentMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/DevelopmentMenu.java
+END
+PlaceForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/PlaceForm.java
+END
+LocationPointer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/btis_btis/!svn/ver/4/src/com/mapunity/tracker/view/LocationPointer.java
+END
+DisplaySettingsForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/DisplaySettingsForm.java
+END
+StreamRecovery.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/StreamRecovery.java
+END
+LocationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/LocationListener.java
+END
+ToFieldData.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/ToFieldData.java
+END
+InformationCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/InformationCanvas.java
+END
+Buses.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/btis_btis/!svn/ver/5/src/com/mapunity/tracker/view/Buses.java
+END
+TrailDetailsScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/TrailDetailsScreen.java
+END
+ElevationCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/ElevationCanvas.java
+END
+TrafficCams.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/btis_btis/!svn/ver/4/src/com/mapunity/tracker/view/TrafficCams.java
+END
+PointResultCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/btis_btis/!svn/ver/4/src/com/mapunity/tracker/view/PointResultCanvas.java
+END
+CanvasPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/CanvasPoint.java
+END
+ExportSettingsForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/ExportSettingsForm.java
+END
+searchResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/btis_btis/!svn/ver/4/src/com/mapunity/tracker/view/searchResults.java
+END
+PlaceActionsForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/PlaceActionsForm.java
+END
+Locations.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/btis_btis/!svn/ver/4/src/com/mapunity/tracker/view/Locations.java
+END
+SettingsList.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/SettingsList.java
+END
+SkyCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/SkyCanvas.java
+END
+SmsScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/SmsScreen.java
+END
+GpsParsingMetricsScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/GpsParsingMetricsScreen.java
+END
+ImportTrailScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/ImportTrailScreen.java
+END
+BaseCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/BaseCanvas.java
+END
+AboutScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/AboutScreen.java
+END
+DirectionsToField.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/DirectionsToField.java
+END
+SplashAndUpdateCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/SplashAndUpdateCanvas.java
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/Logger.java
+END
+ImportPlaceScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/ImportPlaceScreen.java
+END
+WebRecordingSettingsForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/WebRecordingSettingsForm.java
+END
+PlaceList.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/PlaceList.java
+END
+TrailActionsForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/TrailActionsForm.java
+END
+RecordingSettingsForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/RecordingSettingsForm.java
+END
+LocatePoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/LocatePoint.java
+END
+SatelliteCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/SatelliteCanvas.java
+END
+DirectionSuggestTo.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/btis_btis/!svn/ver/4/src/com/mapunity/tracker/view/DirectionSuggestTo.java
+END
+TrailsList.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/TrailsList.java
+END
+DeviceList.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/DeviceList.java
+END
+DirectionsFormField.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/DirectionsFormField.java
+END
+ExportSettingsList.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/view/ExportSettingsList.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/btis_btis/!svn/ver/1/lib
+END
+wtk.jar
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/btis_btis/!svn/ver/1/lib/wtk.jar
+END
+wma20.jar
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/btis_btis/!svn/ver/1/lib/wma20.jar
+END
+SamsungAPI.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/btis_btis/!svn/ver/1/lib/SamsungAPI.jar
+END
+jsonme.jar
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/btis_btis/!svn/ver/1/lib/jsonme.jar
+END
+SiemensAPI.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/btis_btis/!svn/ver/1/lib/SiemensAPI.jar
+END
+jmunit4cldc11-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/btis_btis/!svn/ver/1/lib/jmunit4cldc11-1.0.1.jar
+END
+JMUnit4CLDC10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/btis_btis/!svn/ver/1/lib/JMUnit4CLDC10.jar
+END
+nokiaext.jar
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/btis_btis/!svn/ver/1/lib/nokiaext.jar
+END
+proguard.jar
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/btis_btis/!svn/ver/1/lib/proguard.jar
+END

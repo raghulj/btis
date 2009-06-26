@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/data
+END
+FileLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/data/FileLocator.java
+END
+FileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/data/FileSystem.java
+END
+ImageRmsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/data/ImageRmsUtils.java
+END
+FileIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/data/FileIOException.java
+END
+Serializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/data/Serializable.java
+END

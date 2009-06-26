@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/model
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/model/Settings.java
+END
+Track.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/model/Track.java
+END
+AlertHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/model/AlertHandler.java
+END
+LengthFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/model/LengthFormatter.java
+END
+UnitConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/model/UnitConverter.java
+END
+ShortcutAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/model/ShortcutAction.java
+END
+Waypoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/model/Waypoint.java
+END
+KmlConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/model/KmlConverter.java
+END
+AlertListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/model/AlertListener.java
+END
+GpsRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/model/GpsRecorder.java
+END
+Point2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/model/Point2D.java
+END
+Marker.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/model/Marker.java
+END
+Place.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/model/Place.java
+END
+SpeedFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/model/SpeedFormatter.java
+END
+GpxConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/model/GpxConverter.java
+END
+RecorderSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/model/RecorderSettings.java
+END
+Backlight.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/model/Backlight.java
+END
+AudioShortcutAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/model/AudioShortcutAction.java
+END
+TrackConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/tracker/model/TrackConverter.java
+END

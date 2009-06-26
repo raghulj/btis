@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/gps
+END
+GpsSatellite.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/gps/GpsSatellite.java
+END
+GpsGPGSA.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/gps/GpsGPGSA.java
+END
+GpsPositionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/gps/GpsPositionParser.java
+END
+GpsPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/gps/GpsPosition.java
+END
+GpsPositionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/gps/GpsPositionTest.java
+END

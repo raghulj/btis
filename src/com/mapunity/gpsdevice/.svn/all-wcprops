@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/gpsdevice
+END
+Jsr179Device.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/gpsdevice/Jsr179Device.java
+END
+GpsDeviceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/gpsdevice/GpsDeviceFactory.java
+END
+MockGpsDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/gpsdevice/MockGpsDevice.java
+END
+NullGpsDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/gpsdevice/NullGpsDevice.java
+END
+GpsUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/gpsdevice/GpsUtilities.java
+END
+GpsDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/gpsdevice/GpsDevice.java
+END
+MockJsr179Device.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/gpsdevice/MockJsr179Device.java
+END
+GpsDeviceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/gpsdevice/GpsDeviceImpl.java
+END

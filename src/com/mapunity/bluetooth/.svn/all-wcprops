@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/bluetooth
+END
+Device.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/bluetooth/Device.java
+END
+BluetoothGPSDeviceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/bluetooth/BluetoothGPSDeviceImpl.java
+END
+BluetoothDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/bluetooth/BluetoothDevice.java
+END
+BluetoothUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/bluetooth/BluetoothUtility.java
+END
+MockTrack.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/bluetooth/MockTrack.java
+END

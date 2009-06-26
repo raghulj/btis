@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/btis_btis/!svn/ver/3/src/com/mapunity/util
+END
+ImageUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/util/ImageUtil.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/util/StringUtil.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/util/Version.java
+END
+Float11.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/util/Float11.java
+END
+MathUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/util/MathUtil.java
+END
+DateTimeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/util/DateTimeUtil.java
+END
+ProjectionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/util/ProjectionUtil.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/util/FileUtil.java
+END

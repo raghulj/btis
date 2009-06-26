@@ -1,0 +1,112 @@
+9
+
+dir
+3
+http://btis.unfuddle.com/svn/btis_btis
+http://btis.unfuddle.com/svn/btis_btis
+
+
+
+2008-09-04T12:21:56.028705Z
+3
+raghulj
+has-props
+has-prop-mods
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2e75a2f-b0f2-4a9d-b307-95771c2dc56e
+
+TrailExplorer.alx
+file
+
+
+
+
+2008-09-04T11:43:50.000000Z
+08d04fc0171ad5f8588fe623945e3607
+2008-09-04T06:33:54.399432Z
+1
+raghulj
+
+Eclipse_Formatter_Rules.xml
+file
+
+
+
+
+2008-09-04T11:43:50.000000Z
+0798d40f51920c95f3a1b6d28ff30154
+2008-09-04T06:33:54.399432Z
+1
+raghulj
+
+build-eclipse.xml
+file
+
+
+
+
+2008-09-04T11:43:50.000000Z
+805330d20da936379020cc4e86ab0312
+2008-09-04T06:33:54.399432Z
+1
+raghulj
+
+gpl.txt
+file
+
+
+
+
+2008-09-04T11:43:50.000000Z
+393a5ca445f6965873eca0259a17f833
+2008-09-04T06:33:54.399432Z
+1
+raghulj
+
+dist
+dir
+
+lib
+dir
+
+nbproject
+dir
+
+release_notes.txt
+file
+
+
+
+
+2008-09-04T11:43:50.000000Z
+5c0d3954f1c9e0c5b56256f22b4e325c
+2008-09-04T06:33:54.399432Z
+1
+raghulj
+
+src
+dir
+
+build.xml
+file
+
+
+
+
+2008-09-04T11:43:50.000000Z
+26e43dc781be922850f89f632b536687
+2008-09-04T06:33:54.399432Z
+1
+raghulj
+

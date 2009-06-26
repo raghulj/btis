@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/map
+END
+MapLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/map/MapLocator.java
+END
+MemCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/map/MemCache.java
+END
+FileCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/map/FileCache.java
+END
+OsmMapProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/map/OsmMapProvider.java
+END
+TileDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/map/TileDownloader.java
+END
+TileCacheManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/map/TileCacheManager.java
+END
+AbstractMapProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/map/AbstractMapProvider.java
+END
+TileCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/map/TileCache.java
+END
+NullMapProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/map/NullMapProvider.java
+END
+MapProviderManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/map/MapProviderManager.java
+END
+TahMapProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/map/TahMapProvider.java
+END
+RMSCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/map/RMSCache.java
+END
+MapProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/map/MapProvider.java
+END
+Tile.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/map/Tile.java
+END
+MapUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/btis_btis/!svn/ver/1/src/com/mapunity/map/MapUtils.java
+END
